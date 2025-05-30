@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+
 import Hero from './components/Hero';
 import Portfolio from './components/Portfolio';
 import Services from './components/Services';
