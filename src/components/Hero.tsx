@@ -107,9 +107,6 @@ const Hero = () => {
             className="mt-16"
             animate={{ y: [0, 10, 0] }}
             transition={{ repeat: Infinity, duration: 2 }}
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            viewport={{ once: true }}
           >
             <svg
               className="w-6 h-10 text-purple-400 mx-auto"
